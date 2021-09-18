@@ -25,7 +25,7 @@
 ## What did I learn
 
 - Configure AVCaptureSession for camera live preview
-- Load Machine Learning model in project
+- Load and Perform Machine Learning analysis with pre-trained model in project
 - Go through apple docs for clear details what each method does
 
 
