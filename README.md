@@ -26,7 +26,8 @@
 
 - Configure AVCaptureSession for camera live preview
 - Load and Perform image analysis with pre-trained Machine Learning model in project
-- Go through apple docs for clear details what each method does
+- Refer to Apple docs to understand the method implementation works
+- Passing data between screens with delegate design pattern
 
 
 ## Third Party Frameworks
