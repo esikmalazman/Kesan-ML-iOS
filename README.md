@@ -3,6 +3,7 @@
 
 # Kesan-ML-iOS
 - Real-Time image recognition for iOS with CoreML and InceptionV3
+-  <a href="https://testflight.apple.com/join/gITYdyAe">Test Flight<a/>
 <br><br>
 <img src="https://user-images.githubusercontent.com/59039044/133887028-26f541ac-f39f-4124-9c24-a033bd1c692e.gif" width="200">
 
